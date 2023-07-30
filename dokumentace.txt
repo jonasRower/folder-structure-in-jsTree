@@ -1,0 +1,39 @@
+Projekt zatím složí k vnitřním potřebám autora.
+
+Ale jak to vlastně funguje a co to dělá?
+Projekt ve složce:
+folderTreeInTxt
+
+Tiskne adresaářovou strukturu do txt
+
+____________________________________________
+
+Projekt ve složce:
+folderTreeInJsTree
+
+načítá tento txt a genneruje jsTree v html
+
+
+____________________________________________
+
+Abyste projekty rozchodili, stáhněte kód z Githubu a vytvořte nový projekt.
+Do něj kód nakopírujte
+
+____________________________________________
+
+folderTreeInTxt:
+zde je potřeba nastavit adresu txt, v modulu:
+kresliStrom.py
+
+Do výše uvedeného souboru je třeba vepsat první řádek - tj. počáteční adresu
+
+
+____________________________________________
+
+folderTreeInJsTree
+zde je potřeba nastavit adresu txt, odkud se bude číst, v modulu:
+nactiTxt.py
+
+a zapsat adresu, kam se bude generovat html
+generujHtml.py
+
