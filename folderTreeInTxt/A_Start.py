@@ -1,5 +1,0 @@
-
-import KresliStrom
-
-
-KresliStrom.vykresliStrom()
